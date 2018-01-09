@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.getDirection(for:in:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.didTapMap(sender:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "boy.geometry">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
